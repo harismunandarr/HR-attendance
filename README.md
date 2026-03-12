@@ -1,5 +1,4 @@
 # HRIS Attendance System
-**Technical Test – Junior Developer (HRIS)**
 
 Stack: **Express.js + TypeScript** (backend) · **React.js + TypeScript** (frontend) · **SQLite** (raw queries, no ORM)
 
